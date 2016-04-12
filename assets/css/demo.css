@@ -368,3 +368,7 @@
 .tutorial-page .title{
     color: #FFFFFF;
 }
+
+@media (min-width: 768px) {
+    .logo { width:80%; }
+}
