@@ -3357,6 +3357,6 @@ h2.title {
   }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .logo { width:80%; }
 }
