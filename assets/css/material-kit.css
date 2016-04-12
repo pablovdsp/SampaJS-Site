@@ -3358,5 +3358,6 @@ h2.title {
 }
 
 @media (max-width: 768px) {
-    .logo { width:80%; }
+    .logo { width:50%; }
+    body > div > div.header.header-filter > div > div > div > h1 { font-size:18px; }
 }
