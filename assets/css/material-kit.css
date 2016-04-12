@@ -3356,3 +3356,7 @@ h2.title {
     margin-right: 10px;
   }
 }
+
+@media (min-width: 768px) {
+    .logo { width:80%; }
+}
